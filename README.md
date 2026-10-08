@@ -18,6 +18,7 @@ This repository demonstrates the end-to-end engineering lifecycle for LLM applic
 | Deliverable | Link / Resource |
 | :--- | :--- |
 | **GitHub Repository** | [github.com/manishjhcssp-prog/ai-chat-application](https://github.com/manishjhcssp-prog/ai-chat-application) |
+| **Live Web Application** | [ai-chat-application-zeta.vercel.app](https://ai-chat-application-zeta.vercel.app) |
 | **Google Colab Notebook** | [Open in Google Colab](https://colab.research.google.com/github/manishjhcssp-prog/ai-chat-application/blob/main/colab/module3_llm_apis.ipynb) |
 | **LinkedIn Post Announcement** | [LINKEDIN_POST.md](file:///LINKEDIN_POST.md) |
 | **Technical Documentation** | [DOCUMENTATION.md](file:///DOCUMENTATION.md) |

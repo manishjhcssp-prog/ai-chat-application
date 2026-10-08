@@ -31,6 +31,6 @@ Developed an automated Python unit test suite containing **19 comprehensive test
 💻 **Explore the Project:**
 • GitHub Repository: https://github.com/manishjhcssp-prog/ai-chat-application
 • Google Colab Notebook: https://colab.research.google.com/github/manishjhcssp-prog/ai-chat-application/blob/main/colab/module3_llm_apis.ipynb
-• Live Web Application: https://ai-chat-application-two-pearl.vercel.app (or deployed Vercel URL)
+• Live Web Application: https://ai-chat-application-zeta.vercel.app
 
 #ArtificialIntelligence #LLM #MachineLearning #Python #FastAPI #OpenAI #GoogleGemini #SoftwareEngineering #TechPortfolio #FullStack #WebDevelopment #Coding
