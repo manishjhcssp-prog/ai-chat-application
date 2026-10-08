@@ -1,0 +1,22 @@
+{
+  "name": "ai-chat-application",
+  "version": "1.0.0",
+  "description": "Production-grade AI Chat Application with LLM API orchestration, context management, parameter optimization, structured JSON responses, and cost tracking.",
+  "main": "api/chat.js",
+  "scripts": {
+    "start": "node -e \"const http = require('http'); const fs = require('fs'); const path = require('path'); const server = http.createServer((req, res) => { let filePath = path.join(__dirname, 'public', req.url === '/' ? 'index.html' : req.url); fs.readFile(filePath, (err, data) => { if (err) { res.writeHead(404); res.end('Not found'); } else { res.writeHead(200); res.end(data); } }); }); server.listen(3000, () => console.log('Server running at http://localhost:3000'));\"",
+    "test:python": "python -m unittest discover -s python/tests -p \"test_*.py\""
+  },
+  "keywords": [
+    "llm",
+    "ai-chat",
+    "prompt-engineering",
+    "openai",
+    "gemini",
+    "context-window",
+    "token-optimization",
+    "structured-outputs"
+  ],
+  "author": "manishjhcssp-prog",
+  "license": "MIT"
+}
